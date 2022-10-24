@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @smallbitmatters - Junior Front-End Developer
+- 👋 Hi, I’m @smallbitmatters - I'm an in progress of achieving a Junior Front-End Developer title.
 - 
 - 👀 I’m interested in learning both front/back-end-developing to become a fullstack developer.
 - 
-- 🌱 I’m currently learning HTML, CSS, React, NPM and other related knowledge to improve my projects.
+- 🌱 I’m currently learning HTML, CSS, React, JS, NodeJS and other related knowledge to improve my projects.
 - 
 - 📫 here's my in-progress portfolio website: http://www.emzeo.cyou/
 -
