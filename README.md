@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @smallbitmatters - I'm an in progress of achieving a Junior Front-End Developer title.
+- 👋 Hi, I’m @smallbitmatters - I'm CEO|Founder of Emzeo. 
 - 
-- 👀 I’m interested in learning both front/back-end-developing to become a fullstack developer.
-- 
-- 🌱 I’m currently learning HTML, CSS, React, JS, NodeJS and other related knowledge to improve my projects.
-- 
-- 📫 here's my in-progress portfolio website: http://www.emzeo.cyou/
+- 📫 here's my in-progress website: http://www.emzeo.cyou/
 -
-- See Ya!
+- My time is currently distributed into 3 parts and this project needs more time to reach its beta stage.
+-
+- I am going to need your support for me to make my project come into life.
+-
+- Having hard time to enter pre-seed stage..
 
 <!---
 smallbitmatters/smallbitmatters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
