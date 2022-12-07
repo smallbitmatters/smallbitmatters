@@ -7,6 +7,8 @@
 - I am going to need your support for me to make my project come into life.
 -
 - Having hard time to enter pre-seed stage..
+-
+- Your support will be much appreciated: ETH/AVAX/BNB/FTM/etc 0x0799270FE736a0759C833a388eFc75d297407264
 
 <!---
 smallbitmatters/smallbitmatters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
