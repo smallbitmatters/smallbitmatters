@@ -12,7 +12,7 @@
 -
 - Help me increase my cloud storage, in turn you can use your link to refer your friends to increase your cloud storage as well:
 - https://mega.nz/C!E3B2xByT , https://www.mediafire.com/?97yqhle Thank you!
-
+#
 ### Languages and Tools
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -25,6 +25,8 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+#
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallbitmatters&show_icons=true&theme=radical)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallbitmatters&show_icons=true&theme=transparent) -->
