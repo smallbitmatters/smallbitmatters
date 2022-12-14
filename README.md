@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smallbitmatters - I'm CEO | Founder of Emzeo. 
+- 👋 Hi, I’m @smallbitmatters - I'm the CEO | Founder of Emzeo. 
 - 
 - 📫 here's my in-progress website: http://www.emzeo.cyou/
 -
