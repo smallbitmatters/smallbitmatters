@@ -4,7 +4,7 @@
 -
 - My time is currently distributed into 3 parts and this project needs more time to reach its beta stage.
 -
-- I am going to need your support for me to make my project come into life.
+- I am going to need all your support to make my project come into life.
 -
 - Having hard time to enter pre-seed stage..
 -
