@@ -9,6 +9,9 @@
 - Having hard time to enter pre-seed stage..
 -
 - Your support will be much appreciated: ETH/AVAX/BNB/FTM/etc 0x0799270FE736a0759C833a388eFc75d297407264
+-
+- Help me increase my cloud storage, in turn you can use your link to refer your friends to increase your cloud storage as well:
+- https://mega.nz/C!E3B2xByT , https://www.mediafire.com/?97yqhle Thank you!
 
 ### Languages and Tools
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
